@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "cover": "istanbul cover _mocha",
     "test": "mocha test --recursive --reporter=nyan",
     "watch": "mocha test --watch --recursive --reporter=nyan --growl"
   },
