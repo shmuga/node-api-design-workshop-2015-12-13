@@ -1,0 +1,25 @@
+{
+  "name": "listochkin-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shmuga/node-api-design-workshop-2015-12-13.git"
+  },
+  "author": "Mark Orel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shmuga/node-api-design-workshop-2015-12-13/issues"
+  },
+  "homepage": "https://github.com/shmuga/node-api-design-workshop-2015-12-13#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "istanbul": "^0.4.1",
+    "mocha": "^2.3.4",
+    "node-fetch": "^1.3.3"
+  }
+}
