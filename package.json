@@ -19,17 +19,17 @@
   },
   "homepage": "https://github.com/shmuga/node-api-design-workshop-2015-12-13#readme",
   "devDependencies": {
-    "chai": "^3.4.1",
+    "chai": "^4.1.0",
     "co": "^4.6.0",
     "istanbul": "^0.4.1",
-    "mocha": "^2.3.4",
+    "mocha": "^3.4.2",
     "node-fetch": "^1.3.3"
   },
   "dependencies": {
     "body-parser": "^1.14.1",
     "express": "^4.13.3",
     "i": "^0.3.3",
-    "jsonapi-server": "^1.0.2",
+    "jsonapi-server": "^3.0.2",
     "oauth2-server": "^2.4.1",
     "proxy-middleware": "^0.15.0"
   }
